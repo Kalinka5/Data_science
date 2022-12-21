@@ -1,6 +1,6 @@
+import seaborn as sns
 from numpy import random
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 # Visualization of Normal Distribution
 sns.displot(random.normal(size=1000), kind="kde")
