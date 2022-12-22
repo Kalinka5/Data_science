@@ -106,7 +106,7 @@ data = {
 }
 ```
 
-After that, we wiil make **table** using library **pandas**. And make index by **'months'** in our table.
+After that, we will make **table** using library **pandas**. And make index by **'months'** in our table.
 ```python
 df = pd.DataFrame(data, index=data['months'])
 ```
@@ -129,7 +129,7 @@ As the result, we will have this visualization:
 
 <img src="Line_Charts/Double_Line_Chart.png">
 
-In addition, with Matplotlib we can make bar charts :bar_chart:, double bar charts, histograms, pie charts, range diagram, varieties of line charts :chart_with_upwards_trend: :chart_with_downwards_trend: etc. 
+In addition, with Matplotlib we can make *bar charts* :bar_chart:, *double bar charts*, *histograms*, *pie charts*, *range diagrams*, varieties of *line charts* :chart_with_upwards_trend: :chart_with_downwards_trend: etc. 
 ___
 
 ### *Seaborn*
@@ -166,7 +166,7 @@ And get this incredible visualization of **multinomial distribution**:
 
 <img src="distribution/Multinomial_Distribution.png">
 
-And this is not the only one distribution what we can visualize. There are Normal, Binomial, Logistic Distributions etc. 
+And this is not the only one distribution what we can visualize. There are *Normal*, *Binomial*, *Logistic* distributions etc. 
 ___
 
 ### *Numpy*
@@ -198,4 +198,4 @@ reshape_x = x.reshape((5, 2))
 print(x)
 print(reshape_x)
 ```
-And that's not all that this library can do. In addition, we can sort our arrays, use conditionals (and, or) with arrays, finding LCM and GCD, calculate the logarithm and so on. 
+And that's not all that this library can do. In addition, we can *sort* our arrays, use *conditionals* (and, or) with arrays, finding *LCM* and *GCD*, calculate the *logarithm* and so on. 
