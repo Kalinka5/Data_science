@@ -80,7 +80,7 @@ And finally, print the result to the console:
 print(f'{df}\n')
 ```
 
-<img src="Screenshots/Table.JPG">
+![Table](https://user-images.githubusercontent.com/106172806/215562299-3846cc3f-b226-47a0-80ac-72007acc1bf3.JPG)
 
 It's all just a part of this library. There are a lot of commands like **slices the table**, **conditionals**, **grouping**, get **count**, **mean**, **std**, **min**, **max** values and so on.
 ___
